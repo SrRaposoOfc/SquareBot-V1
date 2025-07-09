@@ -1,6 +1,6 @@
 # 🤖 Square Cloud Bot
 
-Bot oficial para gerenciamento de aplicações na Square Cloud via Discord usando o SDK oficial Python.
+Bot para gerenciamento de aplicações na Square Cloud via Discord usando o SDK oficial Python.
 
 ## ✨ Funcionalidades
 
